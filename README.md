@@ -9,7 +9,7 @@
 [![LetCoode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/TalesReal/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/TalesPalma)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalesPalma&hide_progress=false&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSouza&hide_progress=false&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalesPalma&show_icons=true&theme=tokyonight)
 
 
